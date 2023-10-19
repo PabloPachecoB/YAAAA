@@ -1,0 +1,21 @@
+#root {
+ 
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card{
+  margin-top: -65px;
+    border-color: #ffff;
+    border-radius: 45px;
+    border: 5px solid white;
+    width: 92.59px;
+    height: 86.09px;
+    top: -13px;
+    left: -44px;
+}
+
+

@@ -1,0 +1,10 @@
+.boton1{
+    
+    width: 242px;
+    height: 48px;
+    border-radius: 12px;
+    background-color: #046BA5;
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
